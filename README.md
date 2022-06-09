@@ -4,7 +4,7 @@
 
 sudo yum install httpd git -y
 
-git clone https://github.com/pvontel/frozenyogurtshop.git /var/www/html/
+git clone https://github.com/pvontel/frozenyoghurt-1.git /var/www/html/
 
 sudo systemctl start httpd
 
